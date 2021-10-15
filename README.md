@@ -5,7 +5,7 @@ Hola, mi nombre es Luis Alberto, me dedico al desarrollo de aplicaciones web y m
 - Backend: PHP
 - Frameworks Backend: Laravel
 - Frontend web: HTML + CSS + JAVASCRIPT
-- Frameworks Frontend web: Angular + JQUERY + Bootstrap
+- Frameworks Frontend web: Angular + TypeScript + JQUERY + Bootstrap
 - Frontend Móvil: HTML + CSS + JAVASCRIPT
 - Frameworks Frontend Móvil: IONIC + CORDOVA
 - Bases de datos: MySQL / MariaDB administradas con PHPMYADMIN
