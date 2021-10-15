@@ -1,6 +1,6 @@
 Hola, mi nombre es Luis Alberto, me dedico al desarrollo de aplicaciones web y móvil desde el 2017.
 
-*El stack de técnologías con las que trabajo actualmente son:*
+*El stack de tecnologías con las que trabajo actualmente son:*
 
 - Backend: PHP
 - Frameworks Backend: Laravel
