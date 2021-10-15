@@ -17,7 +17,7 @@ También tengo la capacidad de administrar servidores y realizar instalaciones y
 Mi IDE preferido: VS Code
 
 ```JAVASCRIPT
-while(isExist(tecnology)){
+while(isExists(tecnology)){
   //Haz cosas...
   work();
 }
